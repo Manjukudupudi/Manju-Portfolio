@@ -59,7 +59,7 @@ An SQL-based database designed to analyze customer purchase behavior.
 ### 3. **Python Data Analysis: Student data, GDP(nominal) per capita**
 Using Pandas and Matplotlib to analyze retail sales data and visualize trends.  
 - **Tech**: Python, Pandas, Matplotlib  
-- [Manjukudup](Manjukudup)
+- [Manjukudup](https://github.com/Manjukudupudi/Manjukudup/tree/Projects/Python)
 
 ### 4. **Tableau Dashboard - EMSI_Jobchange_UK, Spotify, Health Survey**
 A Tableau dashboards for above projects analysis, with various KPIs and interactive elements.  
