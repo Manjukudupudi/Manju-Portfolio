@@ -43,33 +43,33 @@ A twelve-week intensive bootcamp that covers the fundamentals of becoming a **Da
 ### 1. **Excel - Bike Sales**
 The powerful spreadsheets and dashboards used to analyse the bike sales data.
 - **Tech**: Excel
-- [Manjukudup](Excel)
+- [Excel](Manjukudup)
 
 
 ### 2. **Power BI Dashboard - Adventure Works**
 An interactive dashboard to analyze sales performance across regions and periods.  
 - **Tech**: Power BI, DAX, SQL  
-- [Manjukudup](PowerBI)
+- [PowerBI](Manjukudup)
 
 ### 2. **SQL Database for Retail Sales, World_DB Datasets**
 An SQL-based database designed to analyze customer purchase behavior.  
 - **Tech**: MYSQL 
-- [Manjukudup](MySQL)
+- [MySQL](Manjukudup)
 
 ### 3. **Python Data Analysis: Student data, GDP(nominal) per capita**
 Using Pandas and Matplotlib to analyze retail sales data and visualize trends.  
 - **Tech**: Python, Pandas, Matplotlib  
-- [Manjukudup](Python)
+- [Python](Manjukudup)
 
 ### 4. **Tableau Dashboard - EMSI_Jobchange_UK, Spotify, Health Survey**
 A Tableau dashboards for above projects analysis, with various KPIs and interactive elements.  
 - **Tech**: Tableau  
-- [Manjukudup](Tableau)
+- [Tableau](Manjukudup)
 
 ### 5. **Azure Cloud Architecture**
 A data storage solution built with Azure services for large-scale data management.  
 - **Tech**: Azure, Blob Storage, SQL Database  
-- [Manjukudup](AzureFundamentals)
+- [AzureFundamentals](Manjukudup)
 
 
 ## 📚 Certifications
