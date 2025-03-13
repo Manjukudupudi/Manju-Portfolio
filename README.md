@@ -49,7 +49,7 @@ The powerful spreadsheets and dashboards used to analyse the bike sales data.
 ### 2. **Power BI Dashboard - Adventure Works**
 An interactive dashboard to analyze sales performance across regions and periods.  
 - **Tech**: Power BI, DAX, SQL  
-- [Manjukudup](Manjukudup)
+- [Manjukudup](https://github.com/Manjukudupudi/Manjukudup/tree/Projects/PowerBI)
 
 ### 2. **SQL Database for Retail Sales, World_DB Datasets**
 An SQL-based database designed to analyze customer purchase behavior.  
