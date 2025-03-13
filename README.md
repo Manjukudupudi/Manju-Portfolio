@@ -64,7 +64,7 @@ Using Pandas and Matplotlib to analyze retail sales data and visualize trends.
 ### 4. **Tableau Dashboard - EMSI_Jobchange_UK, Spotify, Health Survey**
 A Tableau dashboards for above projects analysis, with various KPIs and interactive elements.  
 - **Tech**: Tableau  
-- [Manjukudup](Manjukudup)
+- [Manjukudup](https://github.com/Manjukudupudi/Manjukudup/tree/Projects/Tableau)
 
 ### 5. **Azure Cloud Architecture**
 A data storage solution built with Azure services for large-scale data management.  
