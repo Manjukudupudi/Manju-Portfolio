@@ -1,4 +1,3 @@
-# Manju-Portfolio
 # Hi, I'm Manju Kudupudi 👋
 
 Welcome to my GitHub profile! I'm a Data Analyst with expertise in **Power BI**, **SQL**, **Python (Pandas & Matplotlib)**, **Tableau**, and **Azure Fundamentals**. I specialize in data analytics, visualization, and cloud computing, and I'm passionate about transforming data into actionable insights.
