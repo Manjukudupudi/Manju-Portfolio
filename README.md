@@ -54,7 +54,7 @@ An interactive dashboard to analyze sales performance across regions and periods
 ### 2. **SQL Database for Retail Sales, World_DB Datasets**
 An SQL-based database designed to analyze customer purchase behavior.  
 - **Tech**: MYSQL 
-- [Manjukudup](Manjukudup)
+- [Manjukudup](https://github.com/Manjukudupudi/Manjukudup/tree/Projects/MySQL)
 
 ### 3. **Python Data Analysis: Student data, GDP(nominal) per capita**
 Using Pandas and Matplotlib to analyze retail sales data and visualize trends.  
