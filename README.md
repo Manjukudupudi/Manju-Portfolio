@@ -43,7 +43,7 @@ A twelve-week intensive bootcamp that covers the fundamentals of becoming a **Da
 ### 1. **Excel - Bike Sales**
 The powerful spreadsheets and dashboards used to analyse the bike sales data.
 - **Tech**: Excel
-- [Manjukudup](Manjukudup)
+- [Manjukudup](Manjukud)
 
 
 ### 2. **Power BI Dashboard - Adventure Works**
@@ -69,7 +69,7 @@ A Tableau dashboards for above projects analysis, with various KPIs and interact
 ### 5. **Azure Cloud Architecture**
 A data storage solution built with Azure services for large-scale data management.  
 - **Tech**: Azure, Blob Storage, SQL Database  
-- [Manjukudup](Manjukudup)
+- [Manjukudup](https://github.com/Manjukudupudi/Manjukudup/tree/Projects/AzureFundamentals)
 
 
 ## 📚 Certifications
