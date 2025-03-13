@@ -43,7 +43,7 @@ A twelve-week intensive bootcamp that covers the fundamentals of becoming a **Da
 ### 1. **Excel - Bike Sales**
 The powerful spreadsheets and dashboards used to analyse the bike sales data.
 - **Tech**: Excel
-- [Manjukudup](Manjukud)
+- [Manjukudup](https://github.com/Manjukudupudi/Manjukudup/tree/Projects/Excel)
 
 
 ### 2. **Power BI Dashboard - Adventure Works**
